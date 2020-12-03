@@ -1,8 +1,6 @@
 #include<stdio.h>
 void main(){
     int a,b;
-    int arr[]={
-        12,13,14,15,16};
     int arr2d[2][4]={
         {2,3,4,5},
         {5,6,7,8}
