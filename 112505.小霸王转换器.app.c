@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<stdio.h>
+#include<windows.h>
 void main(){
 	while(1){
 	int a=5;
