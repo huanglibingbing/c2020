@@ -1,5 +1,5 @@
 #include<stdio.h>
 void main(){
-	char arry_c[]="hello word!";
-	printf("%s\n",arry_c);
+	char arry[]="hello word!";
+	printf("%s\n",arry);
 }
