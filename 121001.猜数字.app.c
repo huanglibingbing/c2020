@@ -4,8 +4,7 @@ void main(){
     char c[]="嘿";
     char d[20];
     int a=13;
-    int b;
-        printf("欢迎\n");
+    int b;       
     while(1){
         scanf("%s",&d);
     if(strcmp(c,d)==0){
